@@ -1,0 +1,16 @@
+{
+  "name": "task5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node task5.js"
+  },
+  "keywords": ["node","build"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
